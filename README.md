@@ -1,0 +1,1 @@
+This repository demonstrates a subtle error in Python error handling.  The primary file, 'bug.py', showcases a function that intends to handle a ZeroDivisionError, but fails to gracefully manage TypeErrors that can result from providing non-numeric input. The 'bugSolution.py' file presents a corrected version.
